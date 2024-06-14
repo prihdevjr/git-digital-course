@@ -1,3 +1,3 @@
-# git-digital-course/versionamento
+# git-digital-course
 
-##Gravando mudanças no repositório
+## Salvando alterações no Git
